@@ -8,7 +8,7 @@ Before running the code one must use their Facebook ID as the "nurtureSeed" vari
 
 This code was tested with the Atom text editor with the _atom live-server_ (https://atom.io/packages/atom-live-server)
 
-For running the code one must click on the canvas, to generate a new iteration of the L-System sentence. Recommended are five clicks/five iterations. 
+For running the code one must click on the canvas, to generate a new iteration of the L-System sentence. Recommended are five clicks/five iterations. When 'd' is pressed the plant is drawn to the canvas.
 
 Processing time can get up to 20'. 
 
