@@ -1,5 +1,5 @@
 const seedNature = 100079454328425 //my facebook ID: 100079454328425
-let seedNurture = ''; //IP adress retrieved by ipfy api
+let seedNurture = ''; //IP adress retrieved by ip-api api
 let ruleX = '';
 const apiIp = 'http://ip-api.com/json/' //gets longitude and latitude from IP address
 let len;
