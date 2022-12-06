@@ -12,4 +12,4 @@ For running the code one must click on the canvas, to generate a new iteration o
 
 Processing time can get up to 20'. 
 
-This code is intended to to be experienced with. Change variables and colors to the liking of artists choice. 
+This code is intended to to be experienced with. Change variables and colors to the artists liking.
